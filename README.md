@@ -11,10 +11,10 @@
 - **Tools:** Git, VS Code, Figma, Postman  
 
 ## 📌 Projects
-- 🏠 [Nestigo] (https://github.com/VardhanGootla/Nestigo)
+- 🏠 [Nestigo](https://github.com/VardhanGootla/Nestigo)
 - 🎵 [Spotify Clone](https://github.com/VardhanGootla/Spotify-Clon)  
 - 🛒 [GreenCart E-Commerce](https://github.com/VardhanGootla/GreenCart)  (OnGoing Project)
 
 ## 📫 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/vardhan-gootla-01b9b4289/)  
+[🔗][LinkedIn](https://www.linkedin.com/in/vardhan-gootla-01b9b4289/)  
 
